@@ -1,3 +1,5 @@
+# NB! As of March 2025, this project has been put on hold to develop something even bigger that hopefully contains the functionality meant for this project as well. More info coming soon!
+
 ![logo-full-text](https://github.com/kellipikka/HabitTracer/assets/148441396/00f80ecb-2385-4586-85c1-ce042a8188f6)
 
 # Habit Tracker Web Application
